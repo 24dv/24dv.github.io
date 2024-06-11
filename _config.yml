@@ -5,4 +5,4 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://24dv.github.io" # the base hostname & protocol for your site
 
 markdown: kramdown
-theme: jekyll-theme-minima
+theme: minima
