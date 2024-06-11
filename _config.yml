@@ -6,3 +6,5 @@ url: "https://yourusername.github.io" # the base hostname & protocol for your si
 
 markdown: kramdown
 theme: minima
+
+theme: jekyll-theme-minima
